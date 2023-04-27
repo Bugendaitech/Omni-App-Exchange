@@ -1,1 +1,1 @@
-# sf-int-omni-app-exchange-RM
+# Omni-app-exchange
